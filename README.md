@@ -6,4 +6,4 @@
 - I'm Russian and Belgian.
 - I speak Dutch, Russian, English and French.
 - UTC+01:00 (CET)
-- I know Python, HTML, CSS, JS, and I'm learning C and Java.
+- I know Python, HTML, CSS, JS, C, Java, and i'm learning Golang and Assembly (Yes, I hate myself that much).
