@@ -7,4 +7,4 @@
 - I speak Dutch, Russian, English and French.
 - UTC+01:00 (CET)
 - Python, C, HTML, CSS, JS, SQL, Java
-- I have a website (www.dorem.based.pt)
+- I have a website (https://dorem.based.pt/)
