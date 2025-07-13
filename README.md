@@ -1,10 +1,10 @@
-- Hi, I’m PhantomVoyager or Dorem (Depends on what you like).
+- Hi, I’m PhantomVoyager or (Ave)Dorem (Depends on what you like).
 - I’m interested in programming, linux, (ancient) linguistics, history, politics, economics, philosophy, theology, gym, martial arts, etc.
 - I’m currently in secondary school, studying Latin and Ancient (Attic) Greek.
 - You can reach me by emailing me (phantom.voyager@proton.me).
 - I'm a male.
 - I'm Russian and Belgian.
-- I speak Dutch, Russian, English and French.
+- I speak Dutch, Russian, English and French fluently.
 - UTC+01:00 (CET)
 - Python, C, HTML, CSS, JS, SQL, Java
 - I have a website (https://dorem.based.pt/)
